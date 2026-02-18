@@ -91,14 +91,12 @@ This provides insights into:
 Project Structure
 -----------------------
 Model-Predict-Churn-Telekom/
-│
-├── Modelo_ML_churm_Telekom.ipynb
-├── README.md
-├── requirements.txt
-│
-└── data/
-    ├── telecomunicaciones.csv
-    └── California_DemographicsByCity_sample.csv
+- Modelo_ML_churm_Telekom.ipynb
+- README.md
+- requirements.txt
+- data/
+   - telecomunicaciones.csv
+   - California_DemographicsByCity_sample.csv
 
 
 How to Run
