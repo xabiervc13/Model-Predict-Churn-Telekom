@@ -97,8 +97,8 @@ Model-Predict-Churn-Telekom/
 ├── requirements.txt
 │
 └── data/
-    ├── telekom_train.csv
-    └── telekom_test.csv
+    ├── telecomunicaciones.csv
+    └── California_DemographicsByCity_sample.csv
 
 
 How to Run
@@ -120,6 +120,15 @@ This model helps telecom companies:
 - Improve retention strategies
 - Target high-risk customers
 - Increase long-term revenue
+
+Data
+-----------------------
+This project uses two datasets:
+
+- clientes.csv → main customer dataset
+- municipios.csv → municipalities dataset used for enrichment
+
+Both datasets are located in the data/ folder.
 
 
 Author
